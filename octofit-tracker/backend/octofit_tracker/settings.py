@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-=eolkxtd&-!l_n^=(zt4h+rivn1jpc9%lj1n45m5%!(gp=y@v$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'urban-telegram-rv6qq5rjqgr2594v-8000.app.github.dev']
 
 
 # Enable CORS for all origins
